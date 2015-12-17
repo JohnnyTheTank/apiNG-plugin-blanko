@@ -1,2 +1,2 @@
-# aping-plugin-blanko
-Blanko plugin for apiNG
+# apiNG-plugin-blanko
+blanko plugin for [apiNG](https://github.com/JohnnyTheTank/apiNG)

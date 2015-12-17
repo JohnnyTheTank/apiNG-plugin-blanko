@@ -1,0 +1,28 @@
+{
+  "name": "apiNG-plugin-blanko",
+  "homepage": "https://github.com/JohnnyTheTank/apiNG-plugin-blanko",
+  "authors": [
+    "Jonathan Hornung <jonathan.hornung@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "description": "blanko plugin for apiNG",
+  "main": "dist/apiNG-plugin-blanko.min.js",
+  "moduleType": [],
+  "keywords": [
+    "aping",
+    "blanko",
+    "angularjs",
+    "json"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "apiNG": "*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "aping-plugin-blanko",
+  "version": "0.1.0",
+  "description": "JSON loader plugin for apiNG",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyTheTank/apiNG-plugin-blanko.git"
+  },
+  "keywords": [
+    "aping",
+    "blanko",
+    "angularjs",
+    "json",
+    "angular"
+  ],
+  "author": "Jonathan Hornung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnnyTheTank/apiNG-plugin-blanko/issues"
+  },
+  "homepage": "https://github.com/JohnnyTheTank/apiNG-plugin-blanko#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
