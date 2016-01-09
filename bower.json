@@ -6,7 +6,7 @@
   ],
   "version": "0.1.0",
   "description": "blanko plugin for apiNG",
-  "main": "dist/apiNG-plugin-blanko.min.js",
+  "main": "dist/aping-plugin-blanko.min.js",
   "moduleType": [],
   "keywords": [
     "aping",
