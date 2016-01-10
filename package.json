@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/JohnnyTheTank/apiNG-plugin-blanko/issues"
   },
-  "homepage": "https://github.com/JohnnyTheTank/apiNG-plugin-blanko#readme",
+  "homepage": "https://github.com/JohnnyTheTank/apiNG-plugin-blanko",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-concat": "^0.5.1",
