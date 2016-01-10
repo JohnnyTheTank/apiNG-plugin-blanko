@@ -17,7 +17,7 @@
     "json",
     "angular"
   ],
-  "author": "Jonathan Hornung",
+  "author": "Jonathan Hornung <jonathan.hornung@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JohnnyTheTank/apiNG-plugin-blanko/issues"
