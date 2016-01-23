@@ -6,7 +6,7 @@
  @licence MIT
  */
 
-var jjtApingBlanko = angular.module("jtt_aping_blanko", [])
+angular.module("jtt_aping_blanko", [])
     .directive('apingBlanko', ['apingUtilityHelper', function (apingUtilityHelper) {
         return {
             require: '?aping',
