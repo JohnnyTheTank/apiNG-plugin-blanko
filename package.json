@@ -2,7 +2,7 @@
   "name": "aping-plugin-blanko",
   "version": "0.1.0",
   "description": "blanko plugin for apiNG",
-  "main": "dist/aping-plugin-blanko.min.js",
+  "main": "dist/aping-plugin-blanko.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
