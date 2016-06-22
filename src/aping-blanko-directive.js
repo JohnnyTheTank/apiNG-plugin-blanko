@@ -1,11 +1,5 @@
 "use strict";
 
-/**
- @author Jonathan Hornung (https://github.com/JohnnyTheTank)
- @url https://github.com/JohnnyTheTank/apiNG-plugin-blanko
- @licence MIT
- */
-
 angular.module("jtt_aping_blanko", [])
     .directive('apingBlanko', ['apingUtilityHelper', function (apingUtilityHelper) {
         return {
